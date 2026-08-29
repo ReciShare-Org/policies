@@ -1,5 +1,5 @@
 Privacy Policy
-Last Updated: [June 2026]
+Last Updated: August 2026
 
 At ReciShare ("we," "our," or "us"), we respect your privacy and are committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
 
@@ -23,7 +23,7 @@ To provide technical support and respond to your inquiries.
 
 To maintain a safe community by reviewing reported content and enforcing our Terms of Service.
 
-In the future, to serve personalized or non-personalized advertisements.
+Advertising and Analytics: We use Google AdMob to display advertisements within the App. AdMob may collect and use your device's advertising identifiers (such as Apple's IDFA or Android's Advertising ID), cookies, and similar technologies to serve personalized ads based on your interests. You can opt out of personalized advertising through your device's privacy settings.
 
 3. Sharing Information with Third Parties
 We do not sell your personal data to third parties. We share information only with trusted service providers necessary to operate the App:
@@ -36,11 +36,16 @@ ImgBB: For storing recipe images you upload. Please note that images uploaded to
 
 RapidAPI: For extracting recipe data when you choose to import a recipe from external public links (e.g., TikTok/Instagram).
 
+Sentry: For error tracking and crash reporting to help us quickly identify bugs and improve app stability.
+
+Google AdMob: For serving advertisements. AdMob may collect device identifiers and usage data to provide personalized ad experiences.
+
 Legal Requirements: We may disclose your information if required to do so by law or in response to valid requests by public authorities.
 
 4. Data Retention and Account Deletion
 You have the right to request the complete deletion of your personal data at any time.
 You can delete your account directly within the App by navigating to Settings > Delete Account.
+Alternatively, you can request account and data deletion by contacting us at support.recishare@gmail.com.
 Please note: Completing this action will permanently and irreversibly delete your login credentials, profile data, personal folders, shopping lists, and all recipes (both private and public) that you have uploaded to our database.
 
 5. Children’s Privacy
@@ -55,8 +60,9 @@ We may update our Privacy Policy from time to time. We will notify you of any si
 8. Contact Us
 If you have any questions, concerns, or requests regarding this Privacy Policy or your data, please contact us at: support.recishare@gmail.com.
 
+
 מדיניות פרטיות
-תאריך עדכון אחרון: [יוני 2026]
+תאריך עדכון אחרון: אוגוסט 2026
 
 אנו ב-ReciShare ("אנחנו", "שלנו" או "אנו") מכבדים את פרטיותך ומחויבים להגן על המידע האישי שלך. מדיניות פרטיות זו מסבירה כיצד אנו אוספים, משתמשים, חולקים ושומרים על המידע שלך בעת השימוש באפליקציה שלנו ("האפליקציה").
 
@@ -80,7 +86,7 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 לשמירה על קהילה בטוחה, בדיקת דיווחים על תוכן פוגעני ואכיפת תנאי השימוש שלנו.
 
-בעתיד, להצגת מודעות ופרסומות.
+פרסומות מותאמות אישית: אנו משתמשים ב-Google AdMob כדי להציג פרסומות באפליקציה. AdMob עשוי לאסוף ולהשתמש במזהי הפרסום של המכשיר שלך (כגון IDFA של אפל או Advertising ID של אנדרואיד), קובצי Cookie וטכנולוגיות דומות כדי להציג מודעות מותאמות אישית המבוססות על תחומי העניין שלך. באפשרותך לבטל פרסום מותאם אישית דרך הגדרות הפרטיות של מכשירך.
 
 3. שיתוף מידע עם צדדים שלישיים
 אנו לא מוכרים את המידע האישי שלך לאף גורם. עם זאת, אנו נעזרים בשירותי צד-שלישי מהימנים הנדרשים להפעלת האפליקציה:
@@ -93,11 +99,16 @@ ImgBB: לאחסון תמונות המתכונים שאתה מעלה. לתשומ�
 
 RapidAPI: לחילוץ נתוני מתכונים כאשר אתה בוחר לייבא מתכון מקישורים ציבוריים חיצוניים (כגון TikTok/Instagram).
 
+Sentry: למעקב אחר שגיאות ודוחות קריסה, במטרה לעזור לנו לזהות תקלות במהירות ולשפר את יציבות האפליקציה.
+
+Google AdMob: להצגת פרסומות. AdMob עשוי לאסוף מזהי מכשיר ונתוני שימוש כדי לספק חוויות פרסום מותאמות אישית.
+
 דרישות חוקיות: אנו עשויים לחשוף את המידע שלך אם נידרש לעשות זאת על פי חוק או בתגובה לבקשה חוקית מרשויות אכיפת החוק.
 
 4. שמירת נתונים ומחיקת חשבון
 בכל עת עומדת לרשותך הזכות לדרוש את מחיקתו המוחלטת של המידע האישי שלך.
 ניתן לבצע מחיקת חשבון באופן עצמאי ישירות מתוך האפליקציה על ידי ניווט להגדרות > מחיקת חשבון.
+לחלופין, באפשרותך לבקש את מחיקת חשבונך ונתוניך על ידי פנייה אלינו לכתובת: support.recishare@gmail.com.
 שים לב: פעולה זו הינה בלתי הפיכה ותוביל למחיקה מוחלטת ולצמיתות של פרטי ההתחברות שלך, נתוני הפרופיל, התיקיות האישיות, רשימות הקניות, וכל המתכונים (הפרטיים והציבוריים כאחד) שהעלית למסד הנתונים שלנו.
 
 5. פרטיות קטינים
